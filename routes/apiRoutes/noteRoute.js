@@ -29,6 +29,10 @@ router.post('/notes', (req, res) => {
     res.sendFile(path.join(__dirname, '../../db/db.json'));
 });
 
-
+// delete method and matching url
+// put an id in the url ":id"
+// read db file and parse notes 
+// handle delete by id (for loops?)
+// then write back to db file
 
 module.exports = router;
