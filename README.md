@@ -4,7 +4,7 @@
 A note taking application that is used to write and save notes.  Application uses an express.js back end and will save and retrieve note data from a JSON file.
 
 ## Link
-[Note Taker Repository](https://github.com/glanctot/note-taker)
+[Note Taker Repository](https://github.com/glanctot/note-taker) <br>
 [Deployed Webiste](https://dry-caverns-04786.herokuapp.com/)
 
 ## Usage
